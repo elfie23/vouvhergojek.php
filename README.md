@@ -1,2 +1,0 @@
-# vouvhergojek.php
-vouchergojek
